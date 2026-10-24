@@ -47,12 +47,15 @@ prod.tahoe-analytics.publishers.advertising.a2z.com
 ||openwebmp.com^
 ||openx.net^
 ||presage.io^
+||pubmatic.com^
+||pubmnet.com^
 ||rtb.linkedin.com^
 ||rubiconproject.com^
 ||seedtag.com^
 ||smadex.com^
 ||smartadserver.com^
 ||stackadapt.com^
+||ybp.yahoo.com^
 ||yellowblue.io^
 ac.onedsp.inmobi.com
 api-ssp.spot.im
@@ -83,12 +86,14 @@ tracker.ssp.balance-x.com
 
 # Ad creatives / video ads
 ||celtra.com^
+||ftstatic.com^
 ||mixpo.com^
 ||plrsrvcs.com^
 ||seenthis.se^
 a.sportradarserving.com
 a.teads.com
 ads.sparkflow.net
+hlsads.gannett-cdn.com
 router.infolinks.com
 secure.cdn.fastclick.net
 stackadaptdis.s3.amazonaws.com
