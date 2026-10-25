@@ -98,6 +98,9 @@ router.infolinks.com
 secure.cdn.fastclick.net
 stackadaptdis.s3.amazonaws.com
 
+# Ad-block recovery (re-serves ads through its own domain)
+||html-load.com^
+
 # Ad measurement / verification
 ||adsafeprotected.com^
 ||doubleverify.com^
