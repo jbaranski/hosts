@@ -97,9 +97,12 @@ hlsads.gannett-cdn.com
 router.infolinks.com
 secure.cdn.fastclick.net
 stackadaptdis.s3.amazonaws.com
+||basis.net^
 
 # Ad-block recovery (re-serves ads through its own domain)
 ||html-load.com^
+||content-loader.com^
+adshield-fallback-staging-yp6cs.b-cdn.net
 
 # Ad measurement / verification
 ||adsafeprotected.com^
